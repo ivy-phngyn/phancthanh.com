@@ -2,43 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://phancthanh.com/</loc>
     <lastmod>2026-03-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2026-03-04/</loc>
+    <loc>https://phancthanh.com/post/2026-03-04/</loc>
     <lastmod>2026-03-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/</loc>
+    <loc>https://phancthanh.com/post/</loc>
     <lastmod>2026-03-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2025-12-22/</loc>
+    <loc>https://phancthanh.com/post/2025-12-22/</loc>
     <lastmod>2025-12-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2025-11-20/</loc>
+    <loc>https://phancthanh.com/post/2025-11-20/</loc>
     <lastmod>2025-11-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2025-07-19/</loc>
+    <loc>https://phancthanh.com/post/2025-07-19/</loc>
     <lastmod>2025-07-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2025-06-06/</loc>
+    <loc>https://phancthanh.com/post/2025-06-06/</loc>
     <lastmod>2025-06-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2025-03-20/</loc>
+    <loc>https://phancthanh.com/post/2025-03-20/</loc>
     <lastmod>2025-03-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2024-12-09/</loc>
+    <loc>https://phancthanh.com/post/2024-12-09/</loc>
     <lastmod>2024-12-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2024-11-07/</loc>
+    <loc>https://phancthanh.com/post/2024-11-07/</loc>
     <lastmod>2024-11-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2024-08-18/</loc>
+    <loc>https://phancthanh.com/post/2024-08-18/</loc>
     <lastmod>2024-08-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/gioi-thieu/</loc>
+    <loc>https://phancthanh.com/gioi-thieu/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://phancthanh.com/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://phancthanh.com/tags/</loc>
   </url>
 </urlset>
